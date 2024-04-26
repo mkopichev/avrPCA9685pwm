@@ -1,0 +1,14 @@
+{
+    "AVR.source.compiler": "C:\\Users\\Michael\\avr-gcc-12.1.0_avrdude-7.0\\bin\\avr-gcc.exe",
+    "AVR.programmer.tool": "C:\\Users\\Michael\\avr-gcc-12.1.0_avrdude-7.0\\bin\\avrdude.exe",
+    "AVR.source.libraries": [],
+    "AVR.device.type": "atmega328p",
+    "AVR.device.frequency": 16000000,
+    "AVR.programmer.type": "arduino",
+    "AVR.programmer.port": "COM4",
+    "AVR.programmer.rate": 115200,
+    "files.associations": {
+        "serviceled.h": "c",
+        "pcashield.h": "c"
+    }
+}
